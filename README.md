@@ -150,7 +150,7 @@ See `requirements.txt` for the full dependency list, which includes:
 
 ## License
 
-[Specify your license]
+MIT License
 
 ## Contact
 
